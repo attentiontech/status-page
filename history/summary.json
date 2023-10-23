@@ -6,17 +6,17 @@
     "slug": "attention",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 274,
     "timeDay": 101,
     "timeWeek": 199,
     "timeMonth": 229,
-    "timeYear": 236,
+    "timeYear": 235,
     "dailyMinutesDown": {
-      "2023-10-23": 0
+      "2023-10-23": 9
     }
   }
 ]
