@@ -4,18 +4,19 @@
     "url": "https://www.attention.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/www.attention.tech.ico",
     "slug": "attention",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 272,
-    "timeDay": 351,
+    "timeDay": 304,
     "timeWeek": 178,
-    "timeMonth": 224,
+    "timeMonth": 225,
     "timeYear": 235,
     "dailyMinutesDown": {
+      "2023-11-05": 0,
       "2023-10-30": 24
     }
   }
