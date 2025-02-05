@@ -1,7 +1,7 @@
 url: https://www.attention.tech/
-status: up
-code: 200
-responseTime: 604
-lastUpdated: 2025-02-05T14:29:00.199Z
+status: down
+code: 429
+responseTime: 62
+lastUpdated: 2025-02-05T15:06:03.482Z
 startTime: 2022-05-26T13:49:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
