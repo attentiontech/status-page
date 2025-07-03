@@ -6,17 +6,16 @@
     "slug": "attention",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 414,
-    "timeDay": 529,
-    "timeWeek": 629,
-    "timeMonth": 601,
-    "timeYear": 521,
+    "time": 415,
+    "timeDay": 694,
+    "timeWeek": 647,
+    "timeMonth": 612,
+    "timeYear": 522,
     "dailyMinutesDown": {
-      "2025-07-02": 11,
       "2025-02-05": 50
     }
   }
